@@ -1,4 +1,3 @@
-
 from tkinter import*
 from tkinter import messagebox
 import pymysql
@@ -176,7 +175,7 @@ class EmpSystem:
         t_nSalary.place(x=480,y=205,width=164)
 
 
-        #buttons-----
+        #buttons---
         btn_calc=Button(F2,text="Calculate",font=("times new roman",19),command=self.calculate,bg="#fff", fg="black")
         btn_calc.place(x=100,y=240,height=30,width=140)
 
