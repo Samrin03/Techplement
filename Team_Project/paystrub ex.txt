@@ -1,4 +1,4 @@
-Company Name, XYZ
+        Company Name, XYZ
 	Address: XYZ, Floor4
 -----------------------------------------------------------------
   Employee ID		:   123456
